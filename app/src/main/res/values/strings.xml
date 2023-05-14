@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppdeSaludos</string>
+    <string name="text_nombre">Ingrese Nombre</string>
+    <string name="text_edad">Ingrese Edad</string>
+    <string name="text_celular">Ingrese Celular</string>
+    <string name="text_email">Ingrese Email</string>
+    <string name="app_de_saludos">App de Saludos</string>
+    <string name="titulo">App de Saludos</string>
+    <string name="eti_nombre">Nombre</string>
+    <string name="eti_edad">Edad</string>
+    <string name="eti_celulcar">Celular</string>
+    <string name="eti_email">Email</string>
+    <string name="eti_pre">ALREADY HAVE AN ACOUNT?</string>
+///
+    <string name="descrip_nombre">nombre</string>
+    <string name="editTextNumber_description">Introduce un número aquí</string>
+    //boton
+    <string name="btn_saludar">SALUDAR</string>
+</resources>
